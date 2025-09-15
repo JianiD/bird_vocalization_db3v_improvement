@@ -1,0 +1,10 @@
+3\agelaius phoeniceus: 839
+3\cardinalis cardinalis: 1299
+3\certhia americana: 132
+3\corvus brachyrhynchos: 435
+3\molothrus ater: 96
+3\setophaga aestiva: 297
+3\setophaga ruticilla: 579
+3\spinus tristis: 283
+3\tringa semipalmata: 106
+3\turdus migratorius: 791
