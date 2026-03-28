@@ -1,0 +1,14 @@
+meta:
+  train_ds: meta-v02/2
+  result: results/tdnn_IFN_2
+hparams:
+  lr: 1e-4
+  bs: 32
+  log_freq: 100
+  epoch: 100
+  md_name: bird_img
+model:
+  tdnn: 'tdnn_IFN'
+  num_classes: 10
+evaluation:
+  ds: meta-v02/2

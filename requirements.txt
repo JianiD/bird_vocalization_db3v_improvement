@@ -1,0 +1,14 @@
+torch
+torchaudio
+torchvision
+librosa
+matplotlib
+numpy
+pandas
+scikit-learn
+tqdm
+opencv-python
+PyYAML
+seaborn
+hydra-core
+omegaconf
